@@ -1,1 +1,1 @@
-const AKIA_KEY = 'AKIA1234567891234567';
+const STRIPE_KEY = 'sk_live_1234567890abcdef';
